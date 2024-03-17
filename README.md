@@ -47,6 +47,14 @@ Generate mujoco's XML terrain based on grayscale images
 
 
 
+pip freeze --local > requirements.txt
+保存pip install 手动安装的包
+
+pip install -r requirements.txt
+
+
+
+
 
 
 
